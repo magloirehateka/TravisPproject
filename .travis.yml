@@ -1,7 +1,7 @@
 language: bash
 before_script:
     - echo "Before script section"
-    - chmod u+x simple-script.bash
+    - chmod u+x sample.bash
     
 after_script:
     - echo "Finish"
